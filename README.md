@@ -2,8 +2,6 @@
 ----------------------------------------------------
 Reactjs file:
 import React, { Component } from 'react';
-import { CoreCSS, ModalDialog, NonIdealState } from 'react-pattern-library';
-import { AlertL } from 'react-pattern-library-icons';
 import './ReactLoader.css';
 
 export default class ReactLoader extends Component {
